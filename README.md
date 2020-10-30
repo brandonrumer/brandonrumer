@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **brandonrumer/brandonrumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +13,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<meta name="google-site-verification" content="B8yGvimq22w9-oWtCIR0oX_s5gLbVjq1lF3pFYWm30k" />
